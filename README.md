@@ -11,12 +11,15 @@ I'm Brazilian and I'm currently living in **Paris** :fr: and actively participat
 
 I love to code :computer:, surf :surfer: and learn new things :books:!
 
-
-<!--
-**LuisFlavioOliveira/LuisFlavioOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align='center'>
 <a href="https://dev.to/luisflaviooliveira"><img height="50" src="https://github.com/kasuken/kasuken/blob/master/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/LuisFCCO"><img height="50" src="https://github.com/kasuken/kasuken/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/luisflaviooliveira/"><img height="50" src="https://github.com/kasuken/kasuken/blob/master/linkedin.png?raw=true"></a>
 </p>
+
+
+
+<!--
+**LuisFlavioOliveira/LuisFlavioOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
