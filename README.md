@@ -1,8 +1,7 @@
-![banner](https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/LUIS%20FLAVIO%20OLIVEIRA%20(1).png)
 
----
+# Hi, I'm Luis 👋 🏊🚴🏃 💻 :fr:
 
-### Hi there 👋
+<img src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/LUIS%20FLAVIO%20OLIVEIRA%20(1).png" alt="Luis Flavio OLIVEIRA - software engineer, content creator and community organizer">
 
 <!--
 **LuisFlavioOliveira/LuisFlavioOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
