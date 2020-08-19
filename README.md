@@ -1,7 +1,7 @@
 
 # Hi, I'm Luis 👋 🏊🚴🏃 💻 :fr:
 
-<img src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/FINAL B.png" style="width: 5000px" alt="Luis Flavio OLIVEIRA - software engineer, content creator and community organizer">
+<img src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/b.png" style="width: 5000px" alt="Luis Flavio OLIVEIRA - software engineer, content creator and community organizer">
 
 I'm a **Back-end Web Developer** and I'm passionate about **technolgy** and everything related to the cloud computing, especially **AWS**.
 
