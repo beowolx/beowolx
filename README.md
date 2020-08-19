@@ -42,7 +42,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## My GitHub Stats &#x1f4c8;
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisFlavioOliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisFlavioOliveira&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## How to reach me 📫
