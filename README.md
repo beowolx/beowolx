@@ -23,6 +23,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 - Sharing updates on <a href="https://www.linkedin.com/in/luisflaviooliveira//">LinkedIn</a> 💼
 - My about site: in construction
 
+
 ## My stack is as follows ⚡
 
 * **Frontend**: HTML, CSS, SASS, Vanilla JavaScript
@@ -31,11 +32,13 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 * **Cloud Computing**: AWS
 * **CI/CD**: Drone, Jenkins
 
+
 ## Current situation ✨
 
 - 🔭 I'm currently working on an ONG, *Médecins du Monde (Doctors of the World)* as Financial Coordinator and Executive Assistant 
 - 🌱 I’m currently learning React and NodeJS
 - :office: I'm looking for a position in a company as a Back-end Web Developer. 
+
 
 ## My GitHub Stats &#x1f4c8;
 
