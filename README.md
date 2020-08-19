@@ -19,7 +19,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## Find me around the web 🌎
 
-- Blogging on <a href="https://dev.to/luisflaviooliveira" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
+- Blogging on <a href="https://dev.to/luisflaviooliveira" target="_blank">dev.to/luisflaviooliveira</a> 🎦 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/luisflaviooliveira//">LinkedIn</a> 💼
 - My about site: in construction
 
