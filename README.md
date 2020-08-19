@@ -5,7 +5,7 @@
 
 I'm a **Back-end Web Developer** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
 
-I'm also a **Lawyer** specialized in **Finance Law** and **Corporate Law**, but my heart has always been with code!
+I'm also a **Lawyer** specialized in **Finance Law** and **Corporate Law**, but my heart has always been with code :heart:! I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
 
 I'm Brazilian and I'm currently living in **Paris** :fr: and actively participate in local and international community activities and events.
 
@@ -16,6 +16,41 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 <a href="https://twitter.com/LuisFCCO"><img height="50" src="https://github.com/kasuken/kasuken/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/luisflaviooliveira/"><img height="50" src="https://github.com/kasuken/kasuken/blob/master/linkedin.png?raw=true"></a>
 </p>
+
+## Find me around the web 🌎
+
+- Blogging on <a href="https://dev.to/luisflaviooliveira" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/luisflaviooliveira//">LinkedIn</a> 💼
+- My about site: in construction
+
+## My stack is as follows ⚡:
+
+* **Frontend**: HTML, CSS, SASS, Vanilla JavaScript
+* **Backend**: Python, Django, Flask, Docker
+* **Databases**: SQL and MongoDB
+* **Cloud Computing**: AWS
+* **CI/CD**: Drone, Jenkins
+
+## Current situation ✨
+
+- 🔭 I'm currently working on an ONG, *Médecins du Monde (Doctors of the World)* as Financial Coordinator and Executive Assistant 
+- 🌱 I’m currently learning React and NodeJS
+- :office: I'm looking for a position in a company as a Back-end Web Developer. 
+
+## My GitHub Stats &#x1f4c8;
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisFlavioOliveira)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## How to reach me 📫
+
+- e-mail: luisflavio5@hotmail.com
+- twitter: LuisFCCO
+- linkedin: luisflaviooliveira
+
+
+
+
 
 
 
