@@ -23,7 +23,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 - Sharing updates on <a href="https://www.linkedin.com/in/luisflaviooliveira//">LinkedIn</a> 💼
 - My about site: in construction
 
-## My stack is as follows ⚡:
+## My stack is as follows ⚡
 
 * **Frontend**: HTML, CSS, SASS, Vanilla JavaScript
 * **Backend**: Python, Django, Flask, Docker
