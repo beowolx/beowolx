@@ -20,7 +20,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 ## Find me around the web 🌎
 
 - Blogging on <a href="https://dev.to/luisflaviooliveira" target="_blank">dev.to/luisflaviooliveira</a> 🎦 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/luisflaviooliveira//">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/luisflaviooliveira/">LinkedIn</a> 💼
 - My about site: in construction
 
 
@@ -47,9 +47,9 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## How to reach me 📫
 
-- e-mail: luisflavio5@hotmail.com
-- twitter: LuisFCCO
-- linkedin: luisflaviooliveira
+- E-mail: luisflavio5@hotmail.com
+- Twitter: LuisFCCO
+- Linkedin: luisflaviooliveira
 
 
 
