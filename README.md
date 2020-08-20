@@ -41,7 +41,8 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 - 🌱 I’m currently learning React and NodeJS
 - :office: I'm looking for a position in a company as a Back-end Web Developer. 
 
-## Some of the things I've built
+
+## Some of the things I've built :computer:
 
 It's hard to decide what things should make it into this list, but I wanted to give a brief description of the coolests projects I've created.
 
@@ -58,7 +59,7 @@ It's hard to decide what things should make it into this list, but I wanted to g
 * **Speller** is a program to spell-check words in english from a text. The program is written using pure C and it was a very nice challenge because I had to develop a hash algorithm and a hash table using linked lists as data structure. 
 
 
-### Other accomplishments
+## Other accomplishments :trophy:
 
 * I love to write and I'm soon starting my own blog where I want to discuss about tech and code.
 
