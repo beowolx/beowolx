@@ -41,6 +41,31 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 - 🌱 I’m currently learning React and NodeJS
 - :office: I'm looking for a position in a company as a Back-end Web Developer. 
 
+## Some of the things I've built
+
+It's hard to decide what things should make it into this list, but I wanted to give a brief description of the coolests projects I've created.
+
+* **Freedom Market** is an e-commerce web application developed using Django, JavaScript, HTML, CSS and SQL. It's an online auction website where users can bid and create listings for online auctions.
+
+* **Bull Market** is a web application built with Flask where you can sign in to play with the stock market in real-time. The web app takes stock quotes using an API.
+
+* **Covid-19 Diary** is an amazing project and one of my favourites! It's a Web application built with Flask that allows user to get real-time information about the Covid-19 in their country and also to keep track of their movements to help to identify the possible focus of infection and also to keep track of their movements to help to identify the possible focus of infection and risk using a diary style. 
+
+* **Find-DNA** is a program that I developed using Python and one of the coolest I have done. It identifies to whom a sequence of DNA belongs in a very precise way using a search algorithm that I developed.
+
+* **Suduko Solver** is is a program developed in Python to solve any existing SudoKu using a very fast and nice algorithm of BackTracking.
+
+* **Speller** is a program to spell-check words in english from a text. The program is written using pure C and it was a very nice challenge because I had to develop a hash algorithm and a hash table using linked lists as data structure. 
+
+
+### Other accomplishments
+
+* I love to write and I'm soon starting my own blog where I want to discuss about tech and code.
+
+* I won a bunch of medals competing on Computer Science at high school. Since that time I've loved algorithms and data structures
+
+* I have a beautiful family. For sure my best accomplishment by far.
+
 
 ## My GitHub Stats &#x1f4c8;
 
