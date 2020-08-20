@@ -44,7 +44,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## Some of the things I've built :computer:
 
-It's hard to decide what things should make it into this list, but I wanted to give a brief description of the coolests projects I've created.
+It's hard to decide what things should make it into this list, but I wanted to give a brief description of the coolest projects I've created.
 
 * **Freedom Market** is an e-commerce web application developed using Django, JavaScript, HTML, CSS and SQL. It's an online auction website where users can bid and create listings for online auctions.
 
