@@ -3,9 +3,9 @@
 
 <img src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/be.jpeg" style="width: 5000px" alt="Luis Flavio OLIVEIRA - software engineer, content creator and community organizer">
 
-I'm a **Back-end Web Developer** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
+I'm a **Freelance Web Develope and Sofware Engineerr** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
 
-I'm also a **Lawyer** specialized in **Finance Law** and **Corporate Law**, but my heart has always been with code :heart:! I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
+I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
 
 I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. I find joy in ambiguity and unknown and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers!
 
@@ -16,30 +16,29 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 <p align='center'>
 <a href="https://dev.to/luisflaviooliveira"><img height="50" src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/LuisFCCO"><img height="50" src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/luisflaviooliveira/"><img height="50" src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/luiscardoso1/"><img height="50" src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/linkedin.png?raw=true"></a>
 </p>
 
 ## Find me around the web 🌎
 
 - Blogging on <a href="https://dev.to/luisflaviooliveira" target="_blank">dev.to/luisflaviooliveira</a> 🎦 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/luisflaviooliveira/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/luiscardoso1/">LinkedIn</a> 💼
 - My about site: in construction
 
 
 ## My stack is as follows ⚡
 
-* **Frontend**: HTML, CSS, SASS, Vanilla JavaScript
-* **Backend**: Python, Django, Flask, Docker
+* **Frontend**: HTML, CSS, SASS, Vanilla JavaScript, React, React Native
+* **Backend**: Python, Django, Flask, Docker, Git, GitHub
 * **Databases**: SQL and MongoDB
-* **Cloud Computing**: AWS
-* **CI/CD**: Drone, Jenkins
+* **Cloud Computing**: AWS, Heroku
+* **CI/CD**: Drone, Jenkins, GitActions
 
 
 ## Current situation ✨
 
-- 🔭 I'm currently working on an ONG, *Médecins du Monde (Doctors of the World)* as Financial Coordinator and Executive Assistant 
-- 🌱 I’m currently learning React and NodeJS
-- :office: I'm looking for a position in a company as a Back-end Web Developer. 
+- 🔭 I'm currently working as a freelancer
+- 🌱 I’m currently learning Machine Learning
 
 
 ## Some of the things I've built :computer:
@@ -75,9 +74,9 @@ It's hard to decide what things should make it into this list, but I wanted to g
 
 ## How to reach me 📫
 
-- E-mail: luisflavio5@hotmail.com
+- E-mail: luiscardosobwt@gmail.com
 - Twitter: LuisFCCO
-- Linkedin: luisflaviooliveira
+- Linkedin: luiscardoso1
 
 
 
