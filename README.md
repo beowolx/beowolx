@@ -23,7 +23,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 - Blogging on <a href="https://dev.to/luisflaviooliveira" target="_blank">dev.to/luisflaviooliveira</a> 🎦 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/luiscardoso1/">LinkedIn</a> 💼
-- My about site: in construction
+- My about site: https://luiscardoso.netlify.app/
 
 
 ## My stack is as follows ⚡
