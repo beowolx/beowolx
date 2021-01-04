@@ -3,7 +3,7 @@
 
 <img src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/be.png" style="width: 5000px" alt="Luis Flavio OLIVEIRA - software engineer, content creator and community organizer">
 
-I'm a **Freelance Web Develope and Sofware Engineerr** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
+I'm a **Sofware Engineerr** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
 
 I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
 
@@ -28,16 +28,16 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## My stack is as follows ⚡
 
-* **Frontend**: HTML, CSS, SASS, Vanilla JavaScript, React, React Native
-* **Backend**: Python, Django, Flask, Docker, Git, GitHub
+* **Frontend**: HTML, CSS, SASS, Vanilla JavaScript, React, React Native, Next.js
+* **Backend**: Node.js, Express, Serveless, Django, Flask 
 * **Databases**: SQL and MongoDB
-* **Cloud Computing**: AWS, Heroku
+* **Cloud Computing**: AWS, Firebase
 * **CI/CD**: Drone, Jenkins, GitActions
 
 
 ## Current situation ✨
 
-- 🔭 I'm currently working as a freelancer
+- 🔭 I'm currently working as a consultant
 - 🌱 I’m currently learning Machine Learning
 
 
