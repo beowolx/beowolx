@@ -3,7 +3,7 @@
 
 <img src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/be.png" style="width: 5000px" alt="Luis Flavio OLIVEIRA - software engineer, content creator and community organizer">
 
-I'm a **Sofware Engineerr** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
+I'm a **Sofware Engineer** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
 
 I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
 
