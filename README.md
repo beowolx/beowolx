@@ -26,11 +26,11 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## My stack is as follows ⚡
 
-* **Frontend**: HTML, CSS, Tailwind, JavaScript, TypeScript, React, Next.js
+* **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js, CRA, React-Query, Tailwind
 * **Backend**: Node.js, Express, Nest.js, Django, Flask 
 * **Databases**: SQL and MongoDB
 * **Cloud Computing**: AWS, Firebase
-* **CI/CD**: GitHub Actions
+* **CI/CD**: GitHub Actions, Jest, SuperTest
 
 
 ## Current situation ✨
