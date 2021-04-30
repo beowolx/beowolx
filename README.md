@@ -18,10 +18,6 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 <a href="https://www.linkedin.com/in/luiscardoso1/"><img height="50" src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/linkedin.png?raw=true"></a>
 </p>
 
-## Find me around the web 🌎
-
-- Sharing updates on <a href="https://www.linkedin.com/in/luiscardoso1/">LinkedIn</a> 💼
-- My website: https://luiscardoso.dev/
 
 
 ## My stack is as follows ⚡
