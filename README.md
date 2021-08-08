@@ -31,7 +31,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## Current situation ✨
 
-- 🔭 I'm currently working as a consultant
+- 🔭 I'm currently working for Data Legal Drive
 - 🌱 I’m currently learning Machine Learning
 
 
@@ -51,6 +51,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 
 ## How to reach me 📫
 
+- My Website: https://luiscardoso.dev/
 - E-mail: luis@luiscardoso.dev
 - Twitter: LuisFCCO
 - Linkedin: luiscardoso1
