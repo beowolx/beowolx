@@ -1,5 +1,5 @@
 
-# Hi, I'm Luis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🏊🚴🏃 💻 :fr:🦀
+# Hi, I'm Luis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🏊🚴🏃 💻 :fr: 🦀
 
 <img src="https://github.com/LuisFlavioOliveira/LuisFlavioOliveira/blob/master/be.png" style="width: 5000px" alt="Luis Flavio OLIVEIRA - software engineer, content creator and community organizer">
 
