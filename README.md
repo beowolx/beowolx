@@ -26,7 +26,7 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 * **Backend**: Node.js, Express, Nest.js, Django, Rust 
 * **Databases**: SQL and MongoDB
 * **Cloud Computing**: AWS, Firebase
-* **CI/CD**: GitHub Actions, Jest, SuperTest
+* **CI/CD**: GitHub Actions, Jest, SuperTest, Cypress, React-Testing-Library
 
 
 ## Current situation ✨
