@@ -44,11 +44,6 @@ I love to code :computer:, surf :surfer: and learn new things :books:!
 * I have a beautiful family. For sure my best accomplishment by far.
 
 
-## My GitHub Stats &#x1f4c8;
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisCardosoOliveira&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## How to reach me 📫
 
 - My Website: https://luiscardoso.dev/
