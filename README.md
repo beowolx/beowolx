@@ -2,7 +2,7 @@
 # Hi, I'm Luis  🏊🚴🏃 💻 :fr: 🦀
 
 
-I'm a **Sofware Engineer** and I'm passionate about **technology** and everything related to the cloud computing, especially **AWS**.
+I'm a **Sofware Engineer** and I'm passionate about **technology**.
 
 I'm passionate about **problem-solving, statistics and algorithms**. One of my favourites topics in Computer Science is **Data Structures** and I love to create all sort of algorithms to help me solve problems. I guess one of the best qualities a Developer can have is ***analytical thinking*** 
 
