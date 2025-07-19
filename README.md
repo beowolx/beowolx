@@ -1,5 +1,5 @@
 
-I like to build stuff 🧠 
+I like to build stuff 
 
 - Check my open-souce projects here
 - Check my blog: https://www.luiscardoso.dev/
